@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💧 WWB](README.md)
-* [⚖ TGI](tgi.md)
-* [🏫 DUU](duu.md)
+* [⚖ TGI](README.md)
+* [💧 WWB](<README (1).md>)
 * [🚗 MVS](mvs.md)
+* [🏫 DUU](duu.md)
